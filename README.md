@@ -3,3 +3,4 @@ The Project “VIRTUAL ASSISTANT a.k.a. F.R.I.D.A.Y.” is a Web and Desktop aut
 
 
 Do refer to required library file.
+![image](https://user-images.githubusercontent.com/72186915/113398898-f47e8880-93bc-11eb-95dd-6457e9f53c0b.png)
