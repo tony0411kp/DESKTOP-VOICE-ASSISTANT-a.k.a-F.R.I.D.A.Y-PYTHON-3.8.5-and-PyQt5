@@ -1,2 +1,5 @@
 # DESKTOP-VOICE-ASSISTANT-a.k.a-F.R.I.D.A.Y-PYTHON-3.8.5-and-PyQt5
 The Project “VIRTUAL ASSISTANT a.k.a. F.R.I.D.A.Y.” is a Web and Desktop automation system by taking voice input from user. This report describes the implementation of such system . The system is implemented using speech recognition which converts voice input into text format and then we check that text through our parameters and if it passes successfully then by using pyttsx3 which further converts the new processed text into voice output.  We integrated our process with GUI using PyQt5 ,PyQt5-tools(designer.exe) to create  our main window consisting of  F.R.I.D.A.Y. as Title , virtual assistant symbol as image , user input and wish me! as push buttons also using PyQt5.Widgets and its QMessageBox  to pop-up information's from our Virtual Assistant.  
+
+
+Do refer to required library file.
